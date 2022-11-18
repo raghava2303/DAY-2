@@ -1,0 +1,8 @@
+num=input("enter the number:")
+print("the number is:",num,"and class is:",type(num))
+
+username=input("enter your name:")
+print("hellow and welcome",username)
+
+salary=int(input ("enter the salary:") ) 
+print("the salary is:",salary)
